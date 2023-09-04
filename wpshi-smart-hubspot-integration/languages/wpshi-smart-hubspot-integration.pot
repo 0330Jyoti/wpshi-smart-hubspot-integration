@@ -1,0 +1,598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wszi Smart Zoho\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-14 14:25+0700\n"
+"PO-Revision-Date: 2021-08-14 14:25+0700\n"
+"Last-Translator: Geekerhub  <iahmed964@gmail.com>\n"
+"Language-Team: Geekerhub\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Customer"
+msgstr ""
+
+msgid "Customers"
+msgstr ""
+
+msgid "No customers avaliable."
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Create Time"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "No orders avaliable."
+msgstr ""
+
+msgid "Order Id"
+msgstr ""
+
+msgid "No products avaliable."
+msgstr ""
+
+msgid "Product Id"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "sku"
+msgstr ""
+
+msgid "Select Zoho Fields"
+msgstr ""
+
+msgid "Smart Zoho"
+msgstr ""
+
+msgid "Smart Zoho Settings"
+msgstr ""
+
+msgid "Smart Zoho Fields Mappings"
+msgstr ""
+
+msgid "Fields Mappings"
+msgstr ""
+
+msgid "Smart Zoho Synchronization"
+msgstr ""
+
+msgid "Synchronization"
+msgstr ""
+
+msgid "Fields Mapping"
+msgstr ""
+
+msgid "WP Modules"
+msgstr ""
+
+msgid "Select Module"
+msgstr ""
+
+msgid "WP Fields"
+msgstr ""
+
+msgid "Please select WP Modules"
+msgstr ""
+
+msgid "Zoho Modules"
+msgstr ""
+
+msgid "Select Zoho Module"
+msgstr ""
+
+msgid "Zoho Fields"
+msgstr ""
+
+msgid "Please select Zoho Modules"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "In Active"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Add Mapping"
+msgstr ""
+
+msgid "Zoho Module"
+msgstr ""
+
+msgid "Zoho Field"
+msgstr ""
+
+msgid "WP Module"
+msgstr ""
+
+msgid "WP Field"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "No Record Found"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Synch Settings"
+msgstr ""
+
+msgid "How To?"
+msgstr ""
+
+msgid "Data Center"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Client Secret"
+msgstr ""
+
+msgid "Redirect URI"
+msgstr ""
+
+msgid "Access Token"
+msgstr ""
+
+msgid "Refresh Token"
+msgstr ""
+
+msgid "Save & Authorize"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Billing First Name"
+msgstr ""
+
+msgid "Billing Last Name"
+msgstr ""
+
+msgid "Billing Company"
+msgstr ""
+
+msgid "Billing Address 1"
+msgstr ""
+
+msgid "Billing Address 2"
+msgstr ""
+
+msgid "Billing City"
+msgstr ""
+
+msgid "Billing State"
+msgstr ""
+
+msgid "Billing Postcode"
+msgstr ""
+
+msgid "Billing Country"
+msgstr ""
+
+msgid "Billing Phone"
+msgstr ""
+
+msgid "Billing Email"
+msgstr ""
+
+msgid "Shipping First Name"
+msgstr ""
+
+msgid "Shipping Last Name"
+msgstr ""
+
+msgid "Shipping Company"
+msgstr ""
+
+msgid "Shipping Address 1"
+msgstr ""
+
+msgid "Shipping Address 2"
+msgstr ""
+
+msgid "Shipping City"
+msgstr ""
+
+msgid "Shipping Postcode"
+msgstr ""
+
+msgid "Shipping Country"
+msgstr ""
+
+msgid "Shipping State"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Biographical Info"
+msgstr ""
+
+msgid "Display name publicly as"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Registration Date"
+msgstr ""
+
+msgid "Order Number"
+msgstr ""
+
+msgid "Order Key"
+msgstr ""
+
+msgid "Billing First Name"
+msgstr ""
+
+msgid "Billing Last Name"
+msgstr ""
+
+msgid "Billing Company"
+msgstr ""
+
+msgid "Billing Address 1"
+msgstr ""
+
+msgid "Billing Address 2"
+msgstr ""
+
+msgid "Billing City"
+msgstr ""
+
+msgid "Billing State"
+msgstr ""
+
+msgid "Billing Postcode"
+msgstr ""
+
+msgid "Billing Country"
+msgstr ""
+
+msgid "Billing Phone"
+msgstr ""
+
+msgid "Billing Email"
+msgstr ""
+
+msgid "Shipping First Name"
+msgstr ""
+
+msgid "Shipping Last Name"
+msgstr ""
+
+msgid "Shipping Company"
+msgstr ""
+
+msgid "Shipping Address 1"
+msgstr ""
+
+msgid "Shipping Address 2"
+msgstr ""
+
+msgid "Shipping City"
+msgstr ""
+
+msgid "Shipping State"
+msgstr ""
+
+msgid "Shipping Postcode"
+msgstr ""
+
+msgid "Shipping Country"
+msgstr ""
+
+msgid "Formatted Order Total"
+msgstr ""
+
+msgid "Cart Tax"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Discount Tax"
+msgstr ""
+
+msgid "Discount to Display"
+msgstr ""
+
+msgid "Discount Total"
+msgstr ""
+
+msgid "Shipping Tax"
+msgstr ""
+
+msgid "Shipping Total"
+msgstr ""
+
+msgid "SubTotal"
+msgstr ""
+
+msgid "SubTotal to Display"
+msgstr ""
+
+msgid "Get Total"
+msgstr ""
+
+msgid "Get Total Discount"
+msgstr ""
+
+msgid "Total Tax"
+msgstr ""
+
+msgid "Total Refunded"
+msgstr ""
+
+msgid "Total Tax Refunded"
+msgstr ""
+
+msgid "Total Shipping Refunded"
+msgstr ""
+
+msgid "Item count refunded"
+msgstr ""
+
+msgid "Total Quantity Refunded"
+msgstr ""
+
+msgid "Remaining Refund Amount"
+msgstr ""
+
+msgid "Item count"
+msgstr ""
+
+msgid "Shipping Method"
+msgstr ""
+
+msgid "Shipping to Display"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Date Completed"
+msgstr ""
+
+msgid "Date Paid"
+msgstr ""
+
+msgid "Customer ID"
+msgstr ""
+
+msgid "User ID"
+msgstr ""
+
+msgid "Customer IP Address"
+msgstr ""
+
+msgid "Customer User Agent"
+msgstr ""
+
+msgid "Order Created Via"
+msgstr ""
+
+msgid "Customer Note"
+msgstr ""
+
+msgid "Shipping Address Map URL"
+msgstr ""
+
+msgid "Formatted Billing Full Name"
+msgstr ""
+
+msgid "Formatted Shipping Full Name"
+msgstr ""
+
+msgid "Formatted Billing Address"
+msgstr ""
+
+msgid "Formatted Shipping Address"
+msgstr ""
+
+msgid "Payment Method"
+msgstr ""
+
+msgid "Payment Method Title"
+msgstr ""
+
+msgid "Transaction ID"
+msgstr ""
+
+msgid "'Checkout Payment URL"
+msgstr ""
+
+msgid "Checkout Order Received URL"
+msgstr ""
+
+msgid "Cancel Order URL"
+msgstr ""
+
+msgid "Cancel Order URL Raw"
+msgstr ""
+
+msgid "Cancel Endpoint"
+msgstr ""
+
+msgid "View Order URL"
+msgstr ""
+
+msgid "Edit Order URL"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Product Id"
+msgstr ""
+
+msgid "Product Type"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Catalog Visibility"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Short Description"
+msgstr ""
+
+msgid "Sku"
+msgstr ""
+
+msgid "Menu Order"
+msgstr ""
+
+msgid "Virtual"
+msgstr ""
+
+msgid "Product Permalink"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Regular Price"
+msgstr ""
+
+msgid "Sale Price"
+msgstr ""
+
+msgid "Date on Sale From"
+msgstr ""
+
+msgid "Date on Sale To"
+msgstr ""
+
+msgid "Total Sales"
+msgstr ""
+
+msgid "Tax Status"
+msgstr ""
+
+msgid "Tax Class"
+msgstr ""
+
+msgid "Manage Stock"
+msgstr ""
+
+msgid "Stock Quantity"
+msgstr ""
+
+msgid "Stock Status"
+msgstr ""
+
+msgid "Backorders"
+msgstr ""
+
+msgid "Sold Individually"
+msgstr ""
+
+msgid "Purchase Note"
+msgstr ""
+
+msgid "Shipping Class ID"
+msgstr ""
+
+msgid "Weight"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Categories IDs"
+msgstr ""
+
+msgid "Tag IDs"
+msgstr ""
