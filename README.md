@@ -1,2 +1,2 @@
-# smart-hubspot
+# wpshi-smart-hubspot-integration
 hubspot
