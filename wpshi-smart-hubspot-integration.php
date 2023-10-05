@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       WPSHI Smart Hubspot Integration
  * Plugin URI:        https://profiles.wordpress.org/iqbal1486/
- * Description:       WP Smart Zoho help you to manage and synch possible WordPress data like customers, orders, products to the Zoho modules as per your settings options.
+ * Description:       WP Smart Hubspot help you to manage and synch possible WordPress data like customers, orders, products to the Hubspot modules as per your settings options.
  * Version:           2.1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
@@ -50,7 +50,7 @@ if (! defined('WPSHI_HUBSPOTAPIS_URL') ) {
     // if( !empty($wpshi_smart_hubspot_settings['data_center'])){
     //     $tld = end(explode(".", parse_url( $wpshi_smart_hubspot_settings['data_center'], PHP_URL_HOST)));
     // }
-    define('WPSHI_HUBSPOTAPIS_URL', 'https://www.zohoapis.'.$tld);
+    define('WPSHI_HUBSPOTAPIS_URL', 'https://www.hubspotapis.'.$tld);
 }
 
 function wpshi_smart_hubspot_activate() {
@@ -61,7 +61,7 @@ function wpshi_smart_hubspot_activate() {
 
 /**
  * The code that runs during plugin deactivation.
- * This action is documented in includes/class-wpszi-smart-zoho-deactivator.php
+ * This action is documented in includes/class-wpshi-smart-hubspot-deactivator.php
  */
 function wpshi_smart_hubspot_deactivate() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class.deactivator.php';
