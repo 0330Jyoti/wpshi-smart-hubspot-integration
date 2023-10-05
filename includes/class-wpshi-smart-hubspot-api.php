@@ -159,7 +159,7 @@ class WPSHI_Smart_Hubspot_API {
             'Authorization: Hubspot-oauthtoken '.$this->token->access_token,
         );
         
-        $url = WPSHI_ZOHOAPIS_URL.'/crm/v2/'.$module;
+        $url = WPSHI_HUBSPOTAPIS_URL.'/crm/v2/'.$module;
         
         $ch = curl_init( $url );
         curl_setopt( $ch, CURLOPT_HTTPHEADER, $header );
@@ -197,7 +197,7 @@ class WPSHI_Smart_Hubspot_API {
             'Authorization: Hubspot-oauthtoken '.$this->token->access_token,
         );
         
-        $url = WPSHI_ZOHOAPIS_URL.'/crm/v2/'.$module.'/'.$record_id;
+        $url = WPSHI_HUBSPOTAPIS_URL.'/crm/v2/'.$module.'/'.$record_id;
         
         $ch = curl_init( $url );
         curl_setopt( $ch, CURLOPT_HTTPHEADER, $header );

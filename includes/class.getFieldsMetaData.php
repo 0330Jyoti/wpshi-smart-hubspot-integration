@@ -3,7 +3,7 @@ class GetFieldsMetaData{
  
     public function execute($token, $module = NULL){
     	
-        $url = WPSHI_ZOHOAPIS_URL."/crm/v2/settings/fields?module=".$module;
+        $url = WPSHI_HUBSPOTAPIS_URL."/crm/v2/settings/fields?module=".$module;
         
         $curl = curl_init();
         $authtoken = array('Authorization: Hubspot-oauthtoken '.$token->access_token);

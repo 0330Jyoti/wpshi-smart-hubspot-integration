@@ -2,7 +2,7 @@
 class GetListofModules{
     
     public function execute($token){
-        $url = WPSHI_ZOHOAPIS_URL."/crm/v2/settings/modules";
+        $url = WPSHI_HUBSPOTAPIS_URL."/crm/v2/settings/modules";
         
         $curl = curl_init();
         $authtoken = array('Authorization: Hubspot-oauthtoken '.$token->access_token);
